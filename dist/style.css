@@ -1,0 +1,52 @@
+.top {
+  background: linear-gradient(
+      90deg,
+      rgba(243, 159, 134, 0.0),
+      rgba(249, 217, 118, 0.25)    ),url(https://www.htmlcsscolor.com/preview/gallery/060D13.png);
+  color: #f1f1f1;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.quotewrap {
+  height: 200px;
+  font-family: Barlow;
+}
+
+
+.clouds {
+  background:  linear-gradient(
+      90deg,
+      rgba(243, 159, 134, 0.0),
+      rgba(249, 217, 118, 0.25)
+    ),
+   url("https://i.ibb.co/1TdKgsj/dark-cartoon-clouds-wallpaper-preview.jpg");
+  background-repeat: repeat-x;
+
+  height: 400px;
+}
+
+#new-quote, #tweet-quote {
+  color: #f1f1f1;
+}
+
+.btn-quote, .btn-tweet {
+  border: 2px solid #f1f1f1;
+  background: #23251F;
+  font-family: Barlow;
+}
+
+.btn-quote:focus, .btn-tweet:focus {
+  outline: none;
+}
+
+.buttonhover:hover {
+  background: #24425C;
+  color: #ffffff;
+}
+
+.instructions {
+  padding-top: 200px;
+  color: #F1F1F1;
+  font-family: Barlow;
+}
