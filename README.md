@@ -8,8 +8,6 @@
 Try refreshing the page if theres any loading or server error
 
 
-# Codepen
-## https://codepen.io/soumyadeepta_das/full/rNOJZjY
 
 
 
