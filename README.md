@@ -5,3 +5,8 @@
 
 # App Link
 ## https://movie-quotes-sd.glitch.me
+
+
+
+
+Try refreshing the page if theres any loading or server error
