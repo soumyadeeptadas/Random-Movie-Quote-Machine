@@ -3,7 +3,7 @@
 
 ##### Generates random movie quotes, made using simple Javascript and jQuery
 
-## Codepen
+## Try it here
 #### https://codepen.io/soumyadeepta_das/full/rNOJZjY
 
 
