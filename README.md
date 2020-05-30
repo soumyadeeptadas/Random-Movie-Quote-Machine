@@ -7,6 +7,7 @@
 ## https://movie-quotes-sd.glitch.me
 
 
-
-
 Try refreshing the page if theres any loading or server error
+
+
+![App](https://github.com/soumyadeeptadas/Random-Movie-Quote-Machine/blob/master/Screenshot%20(337).png)
