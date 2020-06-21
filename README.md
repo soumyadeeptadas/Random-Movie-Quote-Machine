@@ -4,7 +4,7 @@
 ##### Generates random movie quotes, made using simple Javascript and jQuery
 
 ## Try it here
-#### https://codepen.io/soumyadeepta_das/full/rNOJZjY
+#### https://movie-quotes-sd.glitch.me/
 
 
 
